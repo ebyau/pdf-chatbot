@@ -11,3 +11,7 @@ python -m venv my-venv
 my-venv\Scripts\activate
 pip install -r requirements.txt
 ```
+Run the application
+```
+streamlit run app.py
+```
